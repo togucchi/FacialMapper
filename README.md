@@ -5,4 +5,4 @@
 
 ## Requirement
 - UniVRM
-- OdinInspector
+- OdinInspector (will be deleted)
