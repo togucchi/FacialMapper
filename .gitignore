@@ -11,8 +11,10 @@
 /[Mm]emoryCaptures/
 
 [_Aa]ssets/Ignore*
-
 [_Aa]ssets/Externals*
+
+.idea/**/workspace.xml
+.idea/**/tasks.xml
 
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta
